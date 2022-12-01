@@ -1,4 +1,4 @@
-import React from "./react.mjs";
+import React from "./react.js";
 
 function Title() {
   return React.createElement("h1", null, "React");
